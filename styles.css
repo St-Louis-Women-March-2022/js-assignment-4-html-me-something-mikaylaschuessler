@@ -8,7 +8,7 @@ body{
 }
 
 #mainHeading {
-    color: red;
+    color: white;
 }
 
 header {
@@ -19,11 +19,11 @@ header {
 #titleName {
     text-align: center;
     font-size: 50px;
-    color: white;
+    color: red;
 }
 
 h2 {
-    color: white;
+    color: red;
     font-size: 30px;
 }
 
